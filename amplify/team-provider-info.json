@@ -16,5 +16,23 @@
         "test": {}
       }
     }
+  },
+  "hoge": {
+    "awscloudformation": {
+      "AuthRoleName": "amplify-myapp-hoge-104729-authRole",
+      "UnauthRoleArn": "arn:aws:iam::144535577486:role/amplify-myapp-hoge-104729-unauthRole",
+      "AuthRoleArn": "arn:aws:iam::144535577486:role/amplify-myapp-hoge-104729-authRole",
+      "Region": "ap-northeast-1",
+      "DeploymentBucketName": "amplify-myapp-hoge-104729-deployment",
+      "UnauthRoleName": "amplify-myapp-hoge-104729-unauthRole",
+      "StackName": "amplify-myapp-hoge-104729",
+      "StackId": "arn:aws:cloudformation:ap-northeast-1:144535577486:stack/amplify-myapp-hoge-104729/1e42dc60-e76a-11eb-bc93-062bdbc94911",
+      "AmplifyAppId": "d2qsbajj31rtma"
+    },
+    "categories": {
+      "auth": {
+        "test": {}
+      }
+    }
   }
 }
